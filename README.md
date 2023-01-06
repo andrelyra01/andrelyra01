@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como front-End
 - 🌱 Estudando javascript
-<div align="left">
+<div align="center center">
   <a href="https://github.com/andrelyra01">
   <img height="180em" src="https://github-readme-status.vercel.app/api?username=andrelyra01&show_icons=true&theme=dark&include_all_commits=true&count_public=true"/>
   <img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=andrelyra01&layout=compact&langs_count=7&theme=dark"/>
