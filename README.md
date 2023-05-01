@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/andre-lyra-5936a2147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo3OmHvV8Rb2oKoCQdL210A%3D%3D" target="_blank" >Andre Lyra 😃️</a>
+    <a href="https://www.linkedin.com/in/andre-lyra-5936a2147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo3OmHvV8Rb2oKoCQdL210A%3D%3D"target="_blank">Andre Lyra 😃️</a>
   </h1>
   
   <p align="center">
