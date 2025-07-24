@@ -37,7 +37,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.instagram.com/andrelyra01/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/andrelyra01/" target="_blanck"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andre-lyra-5936a2147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo3OmHvV8Rb2oKoCQdL210A%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:andrelyra01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
